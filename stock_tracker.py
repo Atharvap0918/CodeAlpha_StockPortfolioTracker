@@ -82,7 +82,6 @@ class StockPortfolioTracker:
         else:
             print("Results not saved.")
 
-# Run the simplified tracker
 if __name__ == "__main__":
     tracker = StockPortfolioTracker()
     tracker.run()

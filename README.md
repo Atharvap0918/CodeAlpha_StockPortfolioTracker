@@ -16,7 +16,7 @@ To design a basic Python application that allows users to manage and calculate t
 
 ## Technologies Used
 
-- Python 3.x
+- Python 3.13.5
 - Built-in Libraries:
   - `datetime` for timestamped file names
   - `csv` for exporting results
